@@ -25,12 +25,12 @@
 
 .controls {
   position: absolute;
-  top: 110px;
-  left: 10px;
-  z-index: 10;
+  top: 200px;
+  width: 100%;
+  text-align: center;
 }
 .controls button {
   margin-right: 8px;
   padding: 6px 12px;
-  font-size: 14px;
+  font-size: 18px;
 }
